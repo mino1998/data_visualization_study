@@ -48,5 +48,16 @@ ___
 ![image](https://github.com/mino1998/data_visualization_study/assets/55076739/91cbaac8-c891-41ae-9d4d-227e75100c46)
 ![image](https://github.com/mino1998/data_visualization_study/assets/55076739/390b19e9-bfa0-4ca6-b03f-ce2fbb351efb)
 
-
+___
+## 👩‍💻 6일차
+- 테이블 계산식 이해하고 활용하기
+  - 테이블 계산식은 "Raw 데이터"를 "집계한 값(Aggregation)"을 가지고 "테이블 계산(Table Calculation)"을 실행합니다.
+  ![image](https://github.com/mino1998/data_visualization_study/assets/55076739/3d412ea6-043b-4166-82d2-a48eb93a5bb5)
+  - 테이블 계산식은 차이, 구성비율 등 존재합니다.
+- 세부 수준 계산식을 이해하고 활용하기
+  - "현재 뷰의 시각화 세부 수준"과 "실제 내가 필요한 집계의 기준"이 상이할 때 사용할 수 있는 것이 "세부 수준 계산식" 입니다.
+  - 코호트 분석까지도 가능합니다.
+![image](https://github.com/mino1998/data_visualization_study/assets/55076739/14c3bc08-7f00-4885-87fb-1b90b9b9ee21)
+![image](https://github.com/mino1998/data_visualization_study/assets/55076739/d29b1151-348b-4c6e-897c-68a08763fc5b)
+![image](https://github.com/mino1998/data_visualization_study/assets/55076739/f9277b8f-1982-423c-b950-52b237f7abf4)
 
